@@ -10,7 +10,7 @@
 
 <!-- ── Animated Typing ────────────────────────────────────────────────────── -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E2%9C%A8+Crafting+Beautiful+Code+With+Passion+%E2%9C%A8;%F0%9F%8E%93+BICT+(Hons)+Undergraduate+%40+USJP;%F0%9F%94%AD+Exploring+AI+%26+Robotics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E2%9C%A8+Crafting+Beautiful+Code+With+Passion)](https://git.io/typing-svg)
 
 <br/>
 
