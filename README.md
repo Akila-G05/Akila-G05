@@ -6,7 +6,7 @@
 
 <!-- ── Animated Header Banner ─────────────────────────────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=AKILA%20GIMHANA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Robotics%20Enthusiast&descSize=18&descAlignY=55&descColor=ffffff" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=AKILA%20GIMHANA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Robotics%20Enthusiast&descSize=18&descAlignY=55&descColor=ffffff" width="100%"/> -->
 
 <!-- ── Animated Typing ────────────────────────────────────────────────────── -->
 
