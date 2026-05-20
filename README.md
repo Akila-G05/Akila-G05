@@ -16,11 +16,12 @@
 
 <!-- ── Profile Badges ─────────────────────────────────────────────────────── -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=Akila-G05&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+<!--![Profile Views](https://komarev.com/ghpvc/?username=Akila-G05&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
 ![GitHub Followers](https://img.shields.io/github/followers/Akila-G05?style=for-the-badge&color=blueviolet&labelColor=1a1b27&logo=github)
 &nbsp;
 ![GitHub Stars](https://img.shields.io/github/stars/Akila-G05?style=for-the-badge&color=blueviolet&labelColor=1a1b27&logo=github)
+-->
 
 </div>
 
